@@ -3,7 +3,3 @@
 [[package]]
 name = "ewm"
 version = "0.1.0"
-
-[[package]]
-name = "ewmcore"
-version = "0.1.0"
